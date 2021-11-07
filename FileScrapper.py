@@ -1,8 +1,11 @@
 import shutil
 import fileinput
 import os
-
-
+/*
+* @author Michal Switala
+* 
+* You can reach me out on : https://github.com/michaelPro89
+*/
 class FileScrapper:
 
     def __init__(self):
